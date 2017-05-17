@@ -16,3 +16,4 @@ hs_err_pid*
 
 
 dao/src/main/resources/META-INF/application.properties
+.idea
