@@ -1,0 +1,16 @@
+com\eisgroup\notification_manager\model\BaseObject.class
+com\eisgroup\notification_manager\model\MessageStatus.class
+com\eisgroup\notification_manager\dao\BaseObjectDAO.class
+com\eisgroup\notification_manager\dao\impl\UserDAOImpl.class
+com\eisgroup\notification_manager\dao\UserDAO.class
+com\eisgroup\notification_manager\model\UserGroup.class
+com\eisgroup\notification_manager\dao\impl\MessageDAOImpl.class
+com\eisgroup\notification_manager\dao\impl\BaseObjectDAOImpl.class
+com\eisgroup\notification_manager\model\EmailMessage.class
+com\eisgroup\notification_manager\model\MessageProvider.class
+com\eisgroup\notification_manager\model\User.class
+com\eisgroup\notification_manager\dao\MessageDAO.class
+com\eisgroup\notification_manager\model\Message.class
+com\eisgroup\notification_manager\dao\UserGroupDAO.class
+com\eisgroup\notification_manager\dao\impl\UserGroupDAOImpl.class
+com\eisgroup\notification_manager\model\SMSMessage.class
